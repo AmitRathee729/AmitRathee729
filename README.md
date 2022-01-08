@@ -1,7 +1,6 @@
 <h1 align="left">Hi <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">, I'm Amit Rathee</h1>
 
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Bhargavi-hash.repoName) [![GitHub followers](https://img.shields.io/github/followers/amitrathee987.svg?style=social&label=Follow)](https://github.com/amitrathee987?tab=followers)<br/>
-
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Bhargavi-hash.repoName) [![GitHub followers](https://img.shields.io/github/followers/amitrathee987.svg?style=social&label=Follow)](https://github.com/amitrathee987?tab=followers)
 <img align='right' src="https://cdn.dribbble.com/users/600557/screenshots/3625204/untitled-1.gif" width="230">
 
 I'm a passionate self-taught full-stack android developer. My passion for software lies with dreaming up ideas and making them come true with elegant and scalable interfaces. I take great care in the experience, architecture, and code quality of the things I build.
