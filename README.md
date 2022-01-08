@@ -53,7 +53,7 @@ I'm a passionate self-taught full-stack android developer. My passion for softwa
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amitrathee729)&nbsp;&nbsp;
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/AmitRathee729)&nbsp;&nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:amitrathee729@gmail.com)&nbsp;&nbsp;
-[![Gitlab](https://img.shields.io/badge/GitLab-330F63?style=flat&logo=gitlab&logoColor=white)](https://gitlab.com/trabko)
+[![Gitlab](https://img.shields.io/badge/GitLab-330F63?style=flat&logo=gitlab&logoColor=white)](https://gitlab.com/AmitRathee729)
 
 
 [![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=amitrathee987)]('#')
