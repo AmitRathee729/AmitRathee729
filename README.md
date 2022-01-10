@@ -56,5 +56,5 @@ I'm a passionate self-taught full-stack android developer. My passion for softwa
 [![Gitlab](https://img.shields.io/badge/GitLab-330F63?style=flat&logo=gitlab&logoColor=white)](https://gitlab.com/AmitRathee729)
 
 
-[![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=amitrathee987)]('#')
+[![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=amitrathee729)]('#')
 
